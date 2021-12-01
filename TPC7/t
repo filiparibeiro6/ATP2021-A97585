@@ -1,1 +1,0 @@
-consultarDataset(lerDataset("alunos.csv"))
